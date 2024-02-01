@@ -184,21 +184,8 @@
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-api</artifactId>
     <version>4.5.0</version>
-</dependency>
-
-  <dependency>
-  	<groupId>Salesedgecomplete</groupId>
-  	<artifactId>Saleedgeframework</artifactId>
-  	<version>0.0.1-SNAPSHOT</version>
-  </dependency>
-  <dependency>
-  	<groupId>Salesedgeapi</groupId>
-  	<artifactId>Apisalesedge</artifactId>
-  	<version>0.0.1-SNAPSHOT</version>
-  </dependency>
+</dependency>  
 </dependencies>
-  
-
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
