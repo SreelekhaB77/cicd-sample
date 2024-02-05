@@ -11,7 +11,7 @@ public class googleautomation {
 		// TODO Auto-generated method stub
 		WebDriverManager.firefoxdriver().setup();
 		WebDriver driver =new FirefoxDriver();
-		driver.get("https://www.google.com/");
+		driver.get("https://iteamsgcp-pwa.hulcd.com/login");
 		driver.manage().window().maximize();
 		
 	}
