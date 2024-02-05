@@ -11,7 +11,7 @@ pipeline{
                 mvn clean install
                 sleep 10
                 cd target/
-                java -jar cicddemo*.jar '''
+                java -jar cicddemo-0.0.1-SNAPSHOT.jar  '''
             }
         }
         stage('DEPLOYMENT IS SUCCESS'){
