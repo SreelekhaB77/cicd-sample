@@ -187,14 +187,7 @@
 </dependency>  
 </dependencies>
 <pluginRepositories>
-		<pluginRepository>
-			<id>qmetrytestmanager-mvn-repo</id>
-			<url>https://raw.github.com/qmetry/qtm4j-maven-uploader/mvn-repo/</url>
-			<snapshots>
-				<enabled>true</enabled>
-				<updatePolicy>always</updatePolicy>
-			</snapshots>
-		</pluginRepository>
+		
 	</pluginRepositories>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
