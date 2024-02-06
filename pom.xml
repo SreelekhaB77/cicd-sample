@@ -189,7 +189,7 @@
 <pluginRepositories>
 		<pluginRepository>
 			<id>qmetrytestmanager-mvn-repo</id>
-			<url>https://raw.github.com/qmetry/qtm4j-maven-uploader/mvn-repo/</url>
+			<url>https://github.com/SreelekhaB77/cicd-sample.git</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
