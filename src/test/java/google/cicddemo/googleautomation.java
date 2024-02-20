@@ -30,9 +30,9 @@ public static void launch() throws InterruptedException
            
 	ChromeOptions ChromeOpt = new ChromeOptions(); 
 
-WebDriverManager.chromedriver.setup();  
+	WebDriverManager.chromedriver.setup();  
 
-WebDriver driver = new ChromeDriver(ChromeOpt); 
+	WebDriver driver = new ChromeDriver(ChromeOpt); 
 
 	
     driver.manage().window().maximize();
